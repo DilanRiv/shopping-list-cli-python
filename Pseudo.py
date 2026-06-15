@@ -1,13 +1,35 @@
-                      ##  TOD LIST COMPRAS##
+ESPAÑOL
 
-# 1.TIENE QUE TENER UN MENU DONDE SE PUEDA MOSTRAR TODAS LAS OPCIONES DEL PROGRAMA
-# 2.DENTRO DEL MENU TIENE QUE TENER LAS SIGUIENTES OPCIONES : CREAR LISTA DE COMPRAS , BUSCAR LISTAS ,ELIMINAR LISTAS,EDITAR LISTA,SALIR  
-# 3.DENTRO DE CREAR LISTAS DE COMPRAS PRIMERO TIENE QUE CREAR EL TITULO DE LA LISTA Y UNA VEZ CREADO RECIEN PUEDE INGRESAR AL CONTENIDO 
-# 4.DENTRO DE VUSCAR LISTAS VA A SALIR UN MENU QUE VA A SALIR SOLO EL TITULO DE LAS LISTAS DONDE EL USUARIO PUEDA ESCOGER CUAL ABRIR Y UNA VEZ CONFIRMADO LA LISTA QUE QUIERE VER 
-# VA A PODER VER EL CONTENIDO DE LA LISTA  
-# 5.Y EN ELIMINAR TAMBIEN CUANDO SELECCIONE LA OPCION VA A PODER VER SOLO EL TITULO DE LAS LISTAS CON OPCION DE PODER VER EL CONTENIDO Y TAMBIEN PODRA VOLVER AL MENU DONDE SALEN LOS TITULOS
-# Y PODRA ESCOGER CUAL ELIMINAR CON UN MINIMENU QUE DIGA SI ESTA SEGURO DE ELIMINAR ESA LISTA
-# 6. TAMBIEN TIENE QUE TENER UNA OPCION DE EDITAR DONDE EL USUARIO VA A PODER BUSRCAR LA LISTA POR EL NOMBRE DESPUES INGRESAR A LA LISTA Y PODRA EDITAR EL DOCUMENTO
-# 7. Y POR ULTIMO LA OPCION DE SALIR QUE TERMINARA EL PROGRAMA 
+Requisitos del Proyecto
+La aplicación debe contar con un menú principal que muestre todas las opciones disponibles del programa.
+El menú principal debe incluir las siguientes opciones:
+Crear lista de compras.
+Mostrar listas de compras.
+Eliminar listas de compras.
+Editar listas de compras.
+Salir.
+En la opción Crear lista de compras, el usuario deberá ingresar primero el título de la lista. Una vez creado el título, podrá agregar los productos que desee incluir.
+En la opción Mostrar listas de compras, la aplicación deberá mostrar un menú con los títulos de todas las listas guardadas. El usuario podrá seleccionar una lista específica para visualizar su contenido.
+En la opción Eliminar listas de compras, la aplicación deberá mostrar un menú con los títulos de las listas disponibles. El usuario podrá seleccionar una lista para eliminarla y, antes de realizar la eliminación, el sistema deberá solicitar una confirmación para asegurar que desea continuar con la operación.
+La aplicación debe incluir una opción de Editar lista de compras, donde el usuario podrá seleccionar una lista existente y modificar su contenido agregando nuevos productos.
+Finalmente, la aplicación debe contar con una opción de Salir, la cual finalizará la ejecución del programa.
 
-# DilanRiv
+Autor: DilanRiv
+
+ENGLISH
+
+Project Requirements
+The application must have a main menu displaying all available options.
+The main menu must include the following options:
+Create Shopping List
+View Shopping Lists
+Delete Shopping Lists
+Edit Shopping Lists
+Exit
+In the Create Shopping List option, the user must first enter the title of the shopping list. Once the title has been created, the user can add items to the list.
+In the View Shopping Lists option, the application must display a menu containing only the titles of the saved lists. The user can select a list to open and view its contents.
+In the Delete Shopping Lists option, the application must display a menu showing only the titles of the saved lists. The user should have the option to view the contents of a selected list and return to the list selection menu. Before deleting a list, the application must ask for confirmation to ensure the user wants to proceed with the deletion.
+The application must include an Edit Shopping List option where the user can search for a list by its name, open it, and modify its contents.
+Finally, the application must include an Exit option that terminates the program.
+
+Author: DilanRiv
